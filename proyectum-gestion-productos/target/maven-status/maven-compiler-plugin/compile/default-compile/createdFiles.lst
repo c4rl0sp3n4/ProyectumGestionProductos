@@ -1,0 +1,10 @@
+com\proyectum\gestion\productos\repository\ProductoRepository.class
+com\proyectum\gestion\productos\controller\ProductoController.class
+com\proyectum\gestion\productos\DataInitializer.class
+com\proyectum\gestion\productos\model\Producto.class
+com\proyectum\gestion\productos\dto\ProductoConverted.class
+com\proyectum\gestion\productos\exception\GlobalExceptionHandler.class
+com\proyectum\gestion\productos\ProyectumGestionProductosApplication.class
+com\proyectum\gestion\productos\service\ExchangeRateService.class
+com\proyectum\gestion\productos\dto\ExchangeRatesResponse.class
+com\proyectum\gestion\productos\service\ProductoService.class
